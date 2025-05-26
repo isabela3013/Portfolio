@@ -1,0 +1,174 @@
+{
+  "en": {
+    "siteTitle": "Your Name - Full Stack Developer",
+    "nav": {
+      "about": "About",
+      "skills": "Skills",
+      "projects": "Projects",
+      "experience": "Experience",
+      "contact": "Contact"
+    },
+    "hero": {
+      "greeting": "Your Name",
+      "presentationTitle": "Building Digital Experiences",
+      "presentationSummary": "A Full Stack Developer with 3+ years of experience building robust and scalable web applications. Passionate about creating intuitive, high-performance web solutions.",
+      "cta": "View My Work",
+      "principalTechnologiesTitle": "Principal Technologies",
+      "principalTechnologiesList": ["React", "Node.js", "Python", "Docker", "AWS", "Databases"],
+      "profileName": "Your Name",
+      "profileSubtitle": "Full Stack Developer",
+      "profileLocation": "Your City, Your Country",
+      "profileLastUpdate": "Last Update: May 26, 2025"
+    },
+    "about": {
+      "title": "About Me",
+      "paragraph1": "Hello! I'm a passionate full-stack developer with a strong foundation in both front-end and back-end technologies. I love solving complex problems and creating intuitive, high-performance web solutions. My journey in development has equipped me with the skills to tackle projects from conception to deployment, ensuring a seamless user experience and robust architecture.",
+      "paragraph2": "I'm constantly learning and adapting to new technologies to stay at the forefront of the ever-evolving web development landscape. My goal is to deliver impactful solutions that drive business value and enhance user engagement."
+    },
+    "skills": {
+      "title": "Skills",
+      "frontendTitle": "Frontend",
+      "frontendSkillsList": [
+        "JavaScript (ES6+)",
+        "React / Angular / Vue (Choose your primary)",
+        "HTML5, CSS3, SCSS",
+        "Responsive Design",
+        "State Management (Redux, NgRx, Vuex)"
+      ],
+      "backendTitle": "Backend",
+      "backendSkillsList": [
+        "Node.js (Express, NestJS)",
+        "Python (Django, Flask)",
+        "Java (Spring Boot)",
+        "RESTful APIs, GraphQL",
+        "Database Management (SQL: PostgreSQL, MySQL; NoSQL: MongoDB)"
+      ],
+      "toolsTitle": "Tools & Others",
+      "toolsSkillsList": [
+        "Git & GitHub",
+        "Docker",
+        "AWS / Google Cloud / Azure (Basic knowledge)",
+        "Testing (Jest, Mocha, Cypress)",
+        "Agile Methodologies"
+      ]
+    },
+    "projects": {
+      "title": "My Projects",
+      "project1Title": "Project Title 1",
+      "project1Description": "A brief description of Project 1, highlighting its key features and technologies used.",
+      "project2Title": "Project Title 2",
+      "project2Description": "A brief description of Project 2, highlighting its key features and technologies used.",
+      "liveDemo": "Live Demo",
+      "githubRepo": "GitHub Repo"
+    },
+    "experience": {
+      "title": "Work Experience",
+      "company1Title": "Full Stack Developer - Company Name 1",
+      "company1Date": "Jan 2023 - Present",
+      "company1Bullet1": "Developed and maintained scalable web applications using [Technologies].",
+      "company1Bullet2": "Collaborated with cross-functional teams to deliver high-quality software solutions.",
+      "company1Bullet3": "Implemented new features and optimized existing code for performance and reliability.",
+      "company2Title": "Junior Developer - Company Name 2",
+      "company2Date": "Mar 2021 - Dec 2022",
+      "company2Bullet1": "Assisted in the development of front-end components and API integrations.",
+      "company2Bullet2": "Participated in code reviews and learned best practices from senior developers."
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "description": "I'm always open to new opportunities and collaborations. Feel free to reach out!",
+      "namePlaceholder": "Your Name",
+      "emailPlaceholder": "Your Email",
+      "messagePlaceholder": "Your Message",
+      "sendMessage": "Send Message"
+    },
+    "footer": {
+      "copyright": "&copy; 2025 Your Name. All rights reserved."
+    }
+  },
+  "es": {
+    "siteTitle": "Tu Nombre - Desarrollador Full Stack",
+    "nav": {
+      "about": "Sobre Mí",
+      "skills": "Habilidades",
+      "projects": "Proyectos",
+      "experience": "Experiencia",
+      "contact": "Contacto"
+    },
+    "hero": {
+      "greeting": "Tu Nombre",
+      "presentationTitle": "Creando Experiencias Digitales",
+      "presentationSummary": "Desarrollador Full Stack con más de 3 años de experiencia construyendo aplicaciones web robustas y escalables. Apasionado por crear soluciones web intuitivas y de alto rendimiento.",
+      "cta": "Ver Mis Proyectos",
+      "principalTechnologiesTitle": "Tecnologías Principales",
+      "principalTechnologiesList": ["React", "Node.js", "Python", "Docker", "AWS", "Bases de Datos"],
+      "profileName": "Tu Nombre",
+      "profileSubtitle": "Desarrollador Full Stack",
+      "profileLocation": "Tu Ciudad, Tu País",
+      "profileLastUpdate": "Última Actualización: 26 de Mayo de 2025"
+    },
+    "about": {
+      "title": "Sobre Mí",
+      "paragraph1": "¡Hola! Soy un desarrollador full-stack apasionado con una sólida base tanto en tecnologías front-end como back-end. Me encanta resolver problemas complejos y crear soluciones web intuitivas y de alto rendimiento. Mi trayectoria en desarrollo me ha dotado de las habilidades para abordar proyectos desde la concepción hasta la implementación, asegurando una experiencia de usuario fluida y una arquitectura robusta.",
+      "paragraph2": "Estoy constantemente aprendiendo y adaptándome a nuevas tecnologías para mantenerme a la vanguardia del panorama del desarrollo web en constante evolución. Mi objetivo es ofrecer soluciones impactantes que impulsen el valor comercial y mejoren la participación del usuario."
+    },
+    "skills": {
+      "title": "Habilidades",
+      "frontendTitle": "Frontend",
+      "frontendSkillsList": [
+        "JavaScript (ES6+)",
+        "React / Angular / Vue (Elige tu principal)",
+        "HTML5, CSS3, SCSS",
+        "Diseño Responsivo",
+        "Gestión de Estado (Redux, NgRx, Vuex)"
+      ],
+      "backendTitle": "Backend",
+      "backendSkillsList": [
+        "Node.js (Express, NestJS)",
+        "Python (Django, Flask)",
+        "Java (Spring Boot)",
+        "APIs RESTful, GraphQL",
+        "Gestión de Bases de Datos (SQL: PostgreSQL, MySQL; NoSQL: MongoDB)"
+      ],
+      "toolsTitle": "Herramientas y Otros",
+      "toolsSkillsList": [
+        "Git y GitHub",
+        "Docker",
+        "AWS / Google Cloud / Azure (Conocimientos básicos)",
+        "Pruebas (Jest, Mocha, Cypress)",
+        "Metodologías Ágiles"
+      ]
+    },
+    "projects": {
+      "title": "Mis Proyectos",
+      "project1Title": "Título del Proyecto 1",
+      "project1Description": "Una breve descripción del Proyecto 1, destacando sus características clave y las tecnologías utilizadas.",
+      "project2Title": "Título del Proyecto 2",
+      "project2Description": "Una breve descripción del Proyecto 2, destacando sus características clave y las tecnologías utilizadas.",
+      "liveDemo": "Ver Demo",
+      "githubRepo": "Repositorio GitHub"
+    },
+    "experience": {
+      "title": "Experiencia Laboral",
+      "company1Title": "Desarrollador Full Stack - Nombre de la Empresa 1",
+      "company1Date": "Enero 2023 - Presente",
+      "company1Bullet1": "Desarrollé y mantuve aplicaciones web escalables utilizando [Tecnologías].",
+      "company1Bullet2": "Colaboré con equipos multifuncionales para ofrecer soluciones de software de alta calidad.",
+      "company1Bullet3": "Implementé nuevas características y optimicé el código existente para el rendimiento y la fiabilidad.",
+      "company2Title": "Desarrollador Junior - Nombre de la Empresa 2",
+      "company2Date": "Marzo 2021 - Diciembre 2022",
+      "company2Bullet1": "Ayudé en el desarrollo de componentes front-end e integraciones de API.",
+      "company2Bullet2": "Participé en revisiones de código y aprendí las mejores prácticas de desarrolladores senior."
+    },
+    "contact": {
+      "title": "Contáctame",
+      "description": "Siempre estoy abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!",
+      "namePlaceholder": "Tu Nombre",
+      "emailPlaceholder": "Tu Correo Electrónico",
+      "messagePlaceholder": "Tu Mensaje",
+      "sendMessage": "Enviar Mensaje"
+    },
+    "footer": {
+      "copyright": "&copy; 2025 Tu Nombre. Todos los derechos reservados."
+    }
+  }
+}
