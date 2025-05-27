@@ -206,13 +206,17 @@
             <section id="contact" class="contact-section section-padding">
                 <div class="container">
                     <h2>Get in Touch</h2>
-                    <p>I'm open to freelance work, collaborations, and full-time opportunities. Reach out if you'd like to work together!</p>
-                    <form class="contact-form" netlify method="post" data-netlify="true" onSubmit="submit">
-                        <input type="text" name="name" placeholder="Your Name" required />
-                        <input type="email" name="email" placeholder="Your Email" required />
-                        <textarea name="message" placeholder="Your Message" rows="6" required></textarea>
-                        <button type="submit" class="button primary-button">Send Message</button>
-                    </form>
+                    <div>
+                        <p>I'm open to freelance work, collaborations, and full-time opportunities. Reach out if you'd like to work together!</p>
+                        <form class="contact-form" netlify method="post" data-netlify="true" data-netlify-honeypot="bot-field" onSubmit="submit">
+                            <input class="hidden" name="bot-field" />
+                            
+                            <input type="text" name="name" placeholder="Your Name" required />
+                            <input type="email" name="email" placeholder="Your Email" required />
+                            <textarea name="message" placeholder="Your Message" rows="6" required></textarea>
+                            <button type="submit" class="button primary-button">Send Message</button>
+                        </form>
+                    </div>
                     <div class="social-links">
                         <a href="https://www.linkedin.com/in/isabella-jaramillo-viedma" target="_blank" aria-label="LinkedIn">
                             <img src="assets/icons/linkedin-black.png" alt="LinkedIn" />
