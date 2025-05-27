@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Isabella Jaramillo Viedma - Full Stack Developer</title>
         <link rel="stylesheet" href="style.css" />
-        <link rel="icon" type="image/x-icon" href="favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="assets/icons/star.png" />
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400..900&display=swap" rel="stylesheet">
@@ -206,13 +206,14 @@
             <section id="contact" class="contact-section section-padding">
                 <div class="container">
                     <h2>Get in Touch</h2>
-                    <div>
+                    <div class="contact-content">
                         <p>I'm open to freelance work, collaborations, and full-time opportunities. Reach out if you'd like to work together!</p>
                         <form class="contact-form" netlify method="post" data-netlify="true" data-netlify-honeypot="bot-field" onSubmit="submit">
                             <input class="hidden" name="bot-field" />
-                            
-                            <input type="text" name="name" placeholder="Your Name" required />
-                            <input type="email" name="email" placeholder="Your Email" required />
+                            <div>
+                                <input type="text" name="name" placeholder="Your Name" required />
+                                <input type="email" name="email" placeholder="Your Email" required />
+                            </div>
                             <textarea name="message" placeholder="Your Message" rows="6" required></textarea>
                             <button type="submit" class="button primary-button">Send Message</button>
                         </form>
