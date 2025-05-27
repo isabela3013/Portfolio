@@ -3,7 +3,7 @@
     --dark-bg: #1a1a1a;
     --dark-card-bg: #2a2a2a;
     --text-color: #f0f0f0;
-    --primary-color: #9e52aa;
+    --primary-color: #aa3fbb;
     --secondary-color: #6c757d;
     --accent-color: #328E6E;
     --border-color: #444;
@@ -24,7 +24,7 @@
 }
 
 body {
-    font-family: 'Space Grotesk', sans-serif; /* Or 'Inter', 'Roboto', 'Montserrat' from Google Fonts */
+    font-family: 'Golos Text', sans-serif;
     background-color: var(--dark-bg);
     color: var(--text-color);
     line-height: 1.6;
@@ -173,7 +173,7 @@ header .container {
 
 .hero-presentation-summary {
     font-size: 1.2rem;
-    max-width: 700px;
+    max-width: 780px;
     margin: 0 auto 1rem auto;
     color: var(--secondary-color);
     font-weight: 300;
@@ -183,7 +183,7 @@ header .container {
     margin-top: 1rem;
     padding: 1rem 1.5rem;
     text-align: right;
-    max-width: 400px;
+    max-width: 500px;
 }
 
 .principal-technologies h3 {
@@ -234,7 +234,7 @@ header .container {
     height: 120px;
     border-radius: 50%;
     object-fit: cover;
-    border: 3px solid var(--text-color);
+    border: 3px solid var(--accent-color);
 }
 
 .profile-info h3 {
@@ -266,7 +266,7 @@ header .container {
     margin-top: 5px;
     width: 30px;
     height: 30px;
-    /* filter: invert(100%); */
+    filter: invert(100%);
     transition: transform var(--transition-speed);
 }
 
