@@ -30,3 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Initial update on page load
     updateText();
 });
+
+document.querySelector('.logo-picture').addEventListener('click', function () {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+});

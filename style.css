@@ -74,10 +74,27 @@ header .container {
     align-items: center;
 }
 
+.logo-content {
+    display: flex;
+    align-items: center;
+}
+
 .logo {
     font-size: 1.8rem;
     font-weight: bold;
     color: var(--primary-color);
+}
+
+.logo-picture {
+    width: 40px;
+    height: 40px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.logo-picture:hover {
+    transform: rotate(15deg);
+    animation: infinite;
 }
 
 .nav-links {
