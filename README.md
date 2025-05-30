@@ -1,5 +1,8 @@
 # 💼 Isabella Jaramillo Viedma – Portfolio
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5a288b06-ab2f-41c5-8f72-9ce3d11f4792/deploy-status)](https://app.netlify.com/projects/isabellajaramillo/deploys)
+
+
 Welcome to my personal portfolio website!  
 This project showcases who I am as a **Full-Stack Developer** with experience in .NET, React, SQL Server, and various system integrations.
 
